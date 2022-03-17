@@ -1,1 +1,1 @@
-# blackjack-hangi-riski-al-nca-kazanma-y-zdesi-artar
+# blackjack-hangi-riski-kazanma-yuzdesini-arttırır
